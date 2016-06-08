@@ -11,6 +11,7 @@
 ## Non-interactive chatbots (e.g. funny twitter bots)
 
 * [Liz Uselton's (partial) PyCon vid](https://www.youtube.com/watch?v=mizX7n2tx8k)
+* [Quartz' best bots of 2015](http://qz.com/572763/the-best-twitter-bots-of-2015/) - some inspiration
 
 ## Advanced NLP and AI stuff
 
