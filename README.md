@@ -1,5 +1,6 @@
 # Make-a-Bot resources
 
+### [Join our slack channel!](https://makeabotslack.herokuapp.com/)
 
 ## Where to start
 
